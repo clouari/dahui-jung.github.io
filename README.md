@@ -21,7 +21,7 @@
                 height: 7%;
                 background-color: gray;
                 color: black;
-                position: relative;
+                position: absolute;
                 top: 0;
                 left: 0;
                 font-size: x-large;
