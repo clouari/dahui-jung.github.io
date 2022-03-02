@@ -34,8 +34,6 @@
         circle.style.top = mouseY + 'px';    
         });
 
-</script>
-
 
 # Let me introduce my portfolio.
 ## I'm applying for the development of
@@ -69,5 +67,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+</script>
 </body>
 </html>
