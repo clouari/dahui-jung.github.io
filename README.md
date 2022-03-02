@@ -13,12 +13,12 @@
                 margin: 0;
             }
             body {
-                background-image: url("245AD629-770A-4C5D-AF52-312A360792F6_1_102_o.jpeg");
+                background-image: url("bg.jpeg");
             }
 
             #top {
                 width: 100%;
-                height: 5%;
+                height: 10%;
                 background-color: gray;
                 color: black;
                 position: absolute;
@@ -78,12 +78,12 @@
         <div></div>
 
 <div class="menu">
-            <a href="https://github.com/clouari?tab=repositories">GitHub <br/></a>
-        </div>
+            <a href="https://github.com/clouari?tab=repositories">GitHub<br/></a>
+</div>
         <div></div>
-        <div class="menu">
+<div class="menu">
             <a href="https://www.notion.so/Mainspace-2883683f58984f99bf25d2acb1da8418">Notion <br/></a>
-        </div>
+</div>
         <div></div>
     </div>
 </div>
@@ -92,7 +92,7 @@
     <div class="contents">
         <div class="textformat">Hi! if i were to talk about myself
             <a href="https://github.com/clouari">
-                <b>"JungDaHui"</b></br>
+                <b>"JungDaHui"</b><br/>
             </a>
             <br/>I'm applying for the development of a <b>"Flutter"</b> & 
             <br /> <b>"docker"</b> 
