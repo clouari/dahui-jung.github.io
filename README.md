@@ -1,10 +1,52 @@
-### Hi! if i were to talk about myself
-## I'm applying for the development of a
+<html>
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Jung Da Hui</title>
+        <script
+        src="https://code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+        crossorigin="anonymous"></script>
+        
+<style>
+            .circle {
+                position: relative;
+                top: 0;
+                left: 0;
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                background-color: rgba(2, 2, 37, 0.158);
+                transform: translate(-50%, -50%);
+            }
+</style>
+</head>
+<body>
+        <div class="circle"></div>
+ <script>
+            const circle = document.querySelector(".circle");
 
-## 활용능력 Skills 
-<h3> [Flutter](https://github.com/clouari/dahui-jung.github.io/edit/main/README.md) </h3>
+        document.addEventListener("mousemove", (e) => 
+        {
+        const mouseX = e.clientX;
+        const mouseY = e.clientY;
+        circle.style.left = mouseX + 'px';
+        circle.style.top = mouseY + 'px';    
+        });
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</script>
+
+
+# Let me introduce my portfolio.
+## I'm applying for the development of
+
+### 활용능력 Skills 
+[Flutter](https://github.com/clouari/dahui-jung.github.io/edit/main/README.md)
+[JavaScript](https://github.com/clouari/assignment_Song/blob/master/GameMake/mario_ranking_add.html)
+[JQuery+CSS+HTML](https://github.com/clouari/assignment_Song/blob/master/Photoshop/photo_jquery.html)
+[MySQL]
+[PHP]
+[DOCKER]
 
 ### Markdown
 
@@ -27,13 +69,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clouari/dahui-jung.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
