@@ -94,11 +94,10 @@
             <a href="https://github.com/clouari">
                 <b>"JungDaHui"</b><br/>
             </a>
-            <br/>I can do these techniques.
+            <br/>I can do these techniques.<br/>
             <b>"Flutter"</b> & 
             <br /> <b>"docker"</b>& 
-            <br /> <b>"JavaScript"</b>&
-            <br /> <b>"JQuery+CSS+HTML"</b>  
+            <br /> <b>"JavaScript"</b> & <b>"JQuery+CSS+HTML"</b>  
             
 </div>
 
