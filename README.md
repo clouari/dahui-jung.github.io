@@ -1,153 +1,37 @@
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Jeong Da Hui Resume</title>
-        <script
-        src="https://code.jquery.com/jquery-3.6.0.js"
-        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
-        crossorigin="anonymous"></script>
+## Welcome to GitHub Pages
 
-        <style>
-            *{
-                margin: 0;
-            }
-            body {
-                background-image: url("245AD629-770A-4C5D-AF52-312A360792F6_1_102_o.jpeg");
-            }
-            .circle {
-                position: relative;
-                top: 0;
-                left: 0;
-                width: 30px;
-                height: 30px;
-                border-radius: 50%;
-                background-color: rgba(2, 2, 37, 0.158);
-                transform: translate(-50%, -50%);
-            }
+You can use the [editor on GitHub](https://github.com/clouari/dahui-jung.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-            #top {
-                width: 100%;
-                height: 5%;
-                background-color: gray;
-                color: black;
-                position: absolute;
-                top: 0;
-                left: 0;
-                font-size: x-large;
-            }
-            div {
-                display: inline-block;
-                color: rgb(3, 1, 1);
-            }
-            .menu_group {
-                position: absolute;
-                right: 10px;
-            }
-            .contents {
-                position: absolute;
-                left: 300px;
-                top: 20%;
-                width: 500px;
-                height: 100px;
-            }
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-            .textformat {
-                text-align: left;
-                width: 500px;
-                font-size: 1.7rem;
-                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-            }
+### Markdown
 
-            .btn {
-                position: relative;
-                padding: 10px;
-                top: 50px;
-                left: 150px;
-                border: 1px solid #130505;
-                border-radius: 10%;
-            }
-            b {
-                color:#272635;
-                font-size: xx-large;
-            }
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-            a {
-                text-decoration: none;
-                color: rgb(0, 0, 0);
-            }
+```markdown
+Syntax highlighted code block
 
-        </style>
-    </head>
-    
-    <body>
+# Header 1
+## Header 2
+### Header 3
 
-        <div class="circle"></div>
-        <script>
-            const circle = document.querySelector(".circle");
+- Bulleted
+- List
 
-            document.addEventListener("mousemove", (e) => 
-            {
-                const mouseX = e.clientX;
-                const mouseY = e.clientY;
-                circle.style.left = mouseX + 'px';
-                circle.style.top = mouseY + 'px';    
-            });
+1. Numbered
+2. List
 
-        </script>
+**Bold** and _Italic_ and `Code` text
 
-        <div id="top">
+[Link](url) and ![Image](src)
+```
 
-            <div class="menu_group">
-                <div></div>
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-                <div class="menu">
-                    <a href="https://github.com/clouari?tab=repositories">GitHub </br></a>
-                </div>
-                <div></div>
-                <div class="menu">
-                    <a href="https://www.notion.so/Mainspace-2883683f58984f99bf25d2acb1da8418">Notion </br></a>
-                </div>
-                <div></div>
-            </div>
-        </div>
+### Jekyll Themes
 
-        <div class="body">
-            <div class="contents">
-                <div class="textformat">Hi! if i were to talk about myself
-                    <a href="https://github.com/clouari">
-                        <b>"JungDaHui"</b></br>
-                    </a>
-                    <br/>I'm applying for the development of a <b>"Flutter"</b> & 
-                    <br /> <b>"docker"</b> 
-                    
-                </div>
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clouari/dahui-jung.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### Support or Contact
 
-
-                <div class="btn">
-                    <a href="https://github.com/clouari/flutter_subway_provider/tree/master/lib">Provider ➤</a>
-                </div>
-                <div class="btn">
-                    <a href="https://github.com/clouari/flutter_movie_provider">MVVM pattern ➤</a>
-                </div></br></br>
-                <div class="btn">
-                <a href="file:///Users/jeongdahui/Desktop/JQUERY(song)/jquery1129/gamemake/mario_ranking_add.html">JavaScript ➤</a>
-                </div>
-                <!-- <div class="btn">
-                    <a href="">Team Project ➤</a>
-                </div> -->
-                <div class="btn">
-                    <a href="">docker (PHP & MySQL) ➤</a>
-                </div>
-
-            </div>
-
-        </div>
-        
-
-
-    </body>
-
-
-</html>
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
