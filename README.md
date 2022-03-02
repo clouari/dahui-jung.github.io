@@ -94,6 +94,7 @@
         <iframe src="dahui.pdf" style="width:700px;height:450px;">
                 <b>JungDaHui</b><br/>
             </iframe>
+            <hr color="grey" size="10px">
             <br/>I can do these techniques.<br/>
             <b>Flutter</b> & 
             <br /> <b>docker</b>& 
