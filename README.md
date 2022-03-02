@@ -91,7 +91,7 @@
 <div class="body">
     <div class="contents">
         <div class="textformat">Let me introduce my portfolio.
-        <iframe src="dahui.pdf" style="width:700px;height:500px;">
+        <iframe src="dahui.pdf" style="width:700px;height:450px;">
                 <b>JungDaHui</b><br/>
             </iframe>
             <br/>I can do these techniques.<br/>
