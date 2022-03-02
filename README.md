@@ -52,7 +52,7 @@
             .btn {
                 position: relative;
                 padding: 10px;
-                top: 50px;
+                top: 20px;
                 left: 150px;
                 border: 1px solid #130505;
                 border-radius: 10%;
@@ -90,11 +90,12 @@
 
 <div class="body">
     <div class="contents">
-        <div class="textformat">Hi! if i were to talk about myself
+        <div class="textformat">Let me introduce my portfolio.
             <a href="https://github.com/clouari">
                 <b>"JungDaHui"</b><br/>
             </a>
-            <br/>I'm applying for the development of a <b>"Flutter"</b> & 
+            <br/>I can do these techniques.
+            <b>"Flutter"</b> & 
             <br /> <b>"docker"</b>& 
             <br /> <b>"JavaScript"</b>&
             <br /> <b>"JQuery+CSS+HTML"</b>  
