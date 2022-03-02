@@ -1,8 +1,8 @@
-## Hi! if i were to talk about myself
-#I'm applying for the development of a
+### Hi! if i were to talk about myself
+## I'm applying for the development of a
 
-활용능력 Skills 
-<h2>Flutter(https://github.com/clouari/dahui-jung.github.io/edit/main/README.md) </h2>
+## 활용능력 Skills 
+<h3> [Flutter](https://github.com/clouari/dahui-jung.github.io/edit/main/README.md) </h3>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
