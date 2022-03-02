@@ -110,7 +110,7 @@
             <a href="https://github.com/clouari/flutter_movie_provider">MVVM pattern ➤</a>
         </div><br/><br/>
         <div class="btn">
-        <a href="file:///Users/jeongdahui/Desktop/JQUERY(song)/jquery1129/gamemake/mario_ranking_add.html">JavaScript ➤</a>
+        <a href="mario/mario_ranking_add.html">JavaScript ➤</a>
         </div>
         <!-- <div class="btn">
             <a href="">Team Project ➤</a>
