@@ -78,7 +78,7 @@
         <div></div>
 
 <div class="menu">
-            <a href="https://github.com/clouari?tab=repositories">GitHub<br/></a>
+            <a href="https://github.com/clouari">GitHub<br/></a>
 </div>
         <div></div>
 <div class="menu">
