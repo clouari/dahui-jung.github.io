@@ -15,16 +15,6 @@
             body {
                 background-image: url("245AD629-770A-4C5D-AF52-312A360792F6_1_102_o.jpeg");
             }
-            .circle {
-                position: relative;
-                top: 0;
-                left: 0;
-                width: 30px;
-                height: 30px;
-                border-radius: 50%;
-                background-color: rgba(2, 2, 37, 0.158);
-                transform: translate(-50%, -50%);
-            }
 
             #top {
                 width: 100%;
@@ -82,30 +72,17 @@
     
 <body>
 
-<div class="circle"></div>
-<script>
-    const circle = document.querySelector(".circle");
-document.addEventListener("mousemove", (e) => 
-    {
-        const mouseX = e.clientX;
-        const mouseY = e.clientY;
-        circle.style.left = mouseX + 'px';
-        circle.style.top = mouseY + 'px';    
-    });
-
-</script>
-
 <div id="top">
 
 <div class="menu_group">
         <div></div>
 
 <div class="menu">
-            <a href="https://github.com/clouari?tab=repositories">GitHub </br></a>
+            <a href="https://github.com/clouari?tab=repositories">GitHub <br/></a>
         </div>
         <div></div>
         <div class="menu">
-            <a href="https://www.notion.so/Mainspace-2883683f58984f99bf25d2acb1da8418">Notion </br></a>
+            <a href="https://www.notion.so/Mainspace-2883683f58984f99bf25d2acb1da8418">Notion <br/></a>
         </div>
         <div></div>
     </div>
@@ -129,7 +106,7 @@ document.addEventListener("mousemove", (e) =>
         </div>
         <div class="btn">
             <a href="https://github.com/clouari/flutter_movie_provider">MVVM pattern ➤</a>
-        </div></br></br>
+        </div><br/><br/>
         <div class="btn">
         <a href="file:///Users/jeongdahui/Desktop/JQUERY(song)/jquery1129/gamemake/mario_ranking_add.html">JavaScript ➤</a>
         </div>
