@@ -18,10 +18,10 @@
 
             #top {
                 width: 100%;
-                height: 10%;
+                height: 7%;
                 background-color: gray;
                 color: black;
-                position: absolute;
+                position: relative;
                 top: 0;
                 left: 0;
                 font-size: x-large;
@@ -36,7 +36,7 @@
             }
             .contents {
                 position: absolute;
-                left: 300px;
+                left: 400px;
                 top: 20%;
                 width: 500px;
                 height: 100px;
