@@ -37,7 +37,7 @@
             .contents {
                 position: absolute;
                 left: 400px;
-                top: 20%;
+                top: 15%;
                 width: 500px;
                 height: 100px;
             }
@@ -95,7 +95,9 @@
                 <b>"JungDaHui"</b><br/>
             </a>
             <br/>I'm applying for the development of a <b>"Flutter"</b> & 
-            <br /> <b>"docker"</b> 
+            <br /> <b>"docker"</b>& 
+            <br /> <b>"JavaScript"</b>&
+            <br /> <b>"JQuery+CSS+HTML"</b>  
             
 </div>
 
