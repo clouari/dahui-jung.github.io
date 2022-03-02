@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Hi! if i were to talk about myself
+#I'm applying for the development of a
 
-You can use the [editor on GitHub](https://github.com/clouari/dahui-jung.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+활용능력 Skills 
+<h2>Flutter(https://github.com/clouari/dahui-jung.github.io/edit/main/README.md) </h2>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
