@@ -53,7 +53,7 @@
                 position: relative;
                 padding: 10px;
                 top: 20px;
-                left: 200px;
+                left: 300px;
                 border: 1px solid #130505;
                 border-radius: 10%;
             }
