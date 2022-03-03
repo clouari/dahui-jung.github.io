@@ -90,7 +90,8 @@
 
 <div class="body">
     <div class="contents">
-        <div class="textformat">Let me introduce my portfolio.
+        <div class="textformat">Let me introduce my
+        <a href="dahui_jung3.pdf">portfolio</a>
         <iframe src="dahui_jung3.pdf" style="width:700px;height:450px;">
                 <b>JungDaHui</b><br/>
             </iframe>
