@@ -92,7 +92,7 @@
     <div class="contents">
         <div class="textformat">Let me introduce my
         <a href="dahui_jung_final.pdf">portfolio</a>
-        <iframe src="dahui_img.pdf" style="width:700px;height:450px;">
+        <iframe src="dahui_img_ver.pdf" style="width:700px;height:450px;">
                 <b>JungDaHui</b><br/>
             </iframe>
             <hr color="grey" size="10px">
